@@ -1,2 +1,3 @@
-# bhaiyu-damo
-this is my first git reposiyory
+# bhaiyu-demo
+this is my first git repository
+auther - bhaiyu
